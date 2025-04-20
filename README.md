@@ -1,7 +1,6 @@
 <h1 align="center">Hello World , I'm Vaggelis Kourakos</h1>
 <h3 align="center">Backend Developer (.NET) & Senior Computer Science Student</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/evangelos-kourakos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
